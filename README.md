@@ -1,8 +1,8 @@
 <h1>DANNY TAN</h1>
 
-This is for SE441\
+This is for SE441
 
-Some extra commits\
+Some extra commits
 
 **This is cool!**
 
