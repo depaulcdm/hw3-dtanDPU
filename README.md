@@ -1,4 +1,4 @@
-<h1>**DANNY TAN**</h1>
+<h1>DANNY TAN</h1>
 
 This is for SE441
 
